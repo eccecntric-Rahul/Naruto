@@ -1,0 +1,180 @@
+
+body{
+color: red;
+background-color: azure;
+font-size: 25px;
+font-family: cursive;
+border: 5px solid gold;
+border-radius: 10px;
+background-image: url(naruhina2.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+margin-left: 20px;
+margin-top: 20px;
+margin-right: 20px;
+margin-bottom: 20px;
+padding: 10px;
+cursor:url("narutoC.cur"),default;
+}
+h1{
+color: orange;
+font-size: 150%;
+text-decoration: underline;
+text-align: center;
+}
+
+h2{
+color: orange;
+font-size: 150%;
+text-decoration: underline;
+}
+
+.c1,.c2{
+color: white;
+font-size: 80%;
+} 
+
+h3{
+color: gold;
+text-decoration: underline;
+font-size: 90%;
+}
+
+.imagec{
+display: block;
+height: 200px;
+width: 200px;
+margin-left: 20px ;
+margin-right: 20px;
+margin-top: 20px;
+margin-bottom: 20px;}
+
+#sugg{
+color:purple;
+} 
+.f1{
+background-color: silver;
+color: orange;
+float: right;
+height: 25%;
+width:25%;
+margin: 20px;
+padding: 10px;
+border-radius: 10px;
+border: 5px solid gold;}
+
+a:link{
+color: blue;
+}
+
+
+a:visited{
+color: green;
+}
+
+a:hover{
+color: Red;
+cursor:url("itachiC.cur"),default;
+
+}
+
+
+
+header{
+	color: gold;
+	background-color: grey;
+	font-family: "Times New Roman",Arial;
+	font-size: 100px;
+	text-align:  center;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 5px;
+	height: 200px;
+	line-height: 200px;
+	text-decoration: underline;
+}
+
+nav{
+
+height: 100px;
+font-size: 25px;
+font-weight:bold;
+font:Tahoma;  
+border-radius: 5px;
+margin: 10px;
+} 
+
+nav ul {
+   
+padding: 0;
+margin: 0;
+list-style-type: none;
+text-align: center;
+color: gold;
+background-color: grey;
+
+} 
+
+nav ul li {
+   
+display: inline;
+padding:15px;
+vertical-align:middle;
+} 
+
+nav ul li a {
+   
+text-decoration:none;
+padding: 8px 8px 8px 8px;
+color: gold;
+vertical-align:middle;
+} 
+
+nav ul li a:hover {
+  
+color: black;
+background-color:white;
+
+}
+
+footer {
+
+background-color: GREY;
+height: 150px;
+font-size: 25px;
+font-weight:bold;
+font:Tahoma;  
+color: gold;
+vertical-align:middle;
+} 
+
+footer ul {
+   
+padding: 0;
+margin: 0;
+list-style-type: none;
+text-align: center;
+
+} 
+
+footer ul li {
+   
+display: inline;
+padding:15px;
+vertical-align:middle;
+} 
+
+footer ul li a {
+   
+text-decoration:none;
+padding: 8px 8px 8px 8px;
+color: gold;
+vertical-align:middle;
+} 
+
+footer a:hover {
+  
+color: black;
+background-color:white;
+
+}
